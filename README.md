@@ -66,32 +66,11 @@ Oil & gas exploration involves significant capital investment with uncertain ret
 - **Executive-Level Analytics**: Models designed for C-suite decision making
 - **High-Stakes Decision Support**: Analytics for multi-million dollar investments
 
-## Competitive Advantage
-This project demonstrates expertise in **Investment Analytics for Capital-Intensive Industries** - a highly specialized field combining:
-
-- **Industry Domain Knowledge**: Understanding of oil & gas exploration economics
-- **Advanced Statistics**: Bootstrap methods and confidence interval analysis
-- **Financial Modeling**: ROI calculation with uncertainty quantification
-- **Strategic Decision Support**: Analytics for executive-level capital allocation
-
 ## Applications Across Industries
 - **Mining & Extraction**: Site selection for mineral extraction projects
 - **Real Estate Development**: Location analysis for major developments
 - **Infrastructure**: Optimal placement of airports, ports, and transportation hubs
 - **Renewable Energy**: Wind farm and solar installation site optimization
-
-## Value for High-Impact Roles
-This expertise is particularly valuable for:
-- **Energy Companies**: ExxonMobil, Shell, BP (exploration planning)
-- **Investment Firms**: Private equity and venture capital (due diligence)
-- **Consulting**: McKinsey, BCG, Bain (strategic advisory)
-- **Financial Services**: Investment banks (project finance and risk assessment)
-
-## Key Achievements
-- **Executive Decision Support**: Models designed for C-level investment decisions
-- **Statistical Rigor**: Formal risk assessment with confidence intervals
-- **Industry Application**: Real-world framework for oil & gas investments
-- **Scalable Methodology**: Applicable to other capital-intensive industries
 
 ## Future Applications
 - **Portfolio Optimization**: Multi-project investment allocation
@@ -105,9 +84,3 @@ In an industry where single decisions impact hundreds of millions of dollars, th
 - **Risk Management**: Advanced statistical methods for uncertainty quantification
 - **Industry Expertise**: Deep understanding of capital-intensive operations
 - **Executive Communication**: Translating complex analytics into actionable insights
-
-This combination of technical expertise and industry knowledge is essential for senior roles in:
-- Strategic planning and business development
-- Risk management and investment analysis
-- Corporate development and M&A
-- Executive advisory and consulting

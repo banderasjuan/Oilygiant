@@ -60,12 +60,6 @@ Oil & gas exploration involves significant capital investment with uncertain ret
 - **Natural Resources**: Applicable to mining and extraction industries
 - **Infrastructure**: Location optimization for major capital projects
 
-## Technical Differentiators
-- **Niche Industry Expertise**: Deep knowledge of oil & gas economics
-- **Advanced Risk Analysis**: Bootstrap methods for investment uncertainty
-- **Executive-Level Analytics**: Models designed for C-suite decision making
-- **High-Stakes Decision Support**: Analytics for multi-million dollar investments
-
 ## Applications Across Industries
 - **Mining & Extraction**: Site selection for mineral extraction projects
 - **Real Estate Development**: Location analysis for major developments
@@ -78,9 +72,3 @@ Oil & gas exploration involves significant capital investment with uncertain ret
 - **ESG Integration**: Environmental and social risk factors in location selection
 - **Digital Twin**: Virtual modeling of exploration scenarios
 
-## Professional Value Proposition
-In an industry where single decisions impact hundreds of millions of dollars, this project showcases:
-- **Strategic Analytics**: Ability to influence major corporate decisions
-- **Risk Management**: Advanced statistical methods for uncertainty quantification
-- **Industry Expertise**: Deep understanding of capital-intensive operations
-- **Executive Communication**: Translating complex analytics into actionable insights
